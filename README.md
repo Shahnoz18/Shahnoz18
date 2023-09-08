@@ -1,4 +1,4 @@
-![Header](https://github.com/Shahnoz18/Shahnoz18/blob/main/assets/img.png)
+![Header](https://github.com/Shahnoz18/Shahnoz18/blob/main/assets/header.png)
 
 About me 
 
