@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ![Header](https://github.com/Shahnoz18/Shahnoz18/blob/main/assets/header.png)
 
