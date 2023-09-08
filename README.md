@@ -8,7 +8,7 @@ I'm Shahnoz, a Frontend developer from Russia,Moscow.
 - 💬 Ask me about: movies, cooking and a little bit dancing
 
 ### Connect with me:
-- <a href="https://t.me/@ShShah18" target="blank">Telegram</a>
+- <a href="https://t.me/ShShah18" target="blank">Telegram</a>
 - <a href="shob181296@mail.ru" target="blank">E-mail</a>
 
 ### Technologies:
